@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace CsharpCourse_DataStructures
 {
+    //Array-collection of items with same datatype in a single block of memory
+   //fixed size-so no added and remove methods.
+   //fast accessing using index
+   //default values= 0 for integers, null for objects.
     class ArrayExample
     {
         static void Main()
