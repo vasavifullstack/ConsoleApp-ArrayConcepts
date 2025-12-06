@@ -9,7 +9,9 @@ namespace CsharpCourse_DataStructures
         //ArrayList-dynamic collection.store objects of any type.
         //automatically resize when elements are added or removed.
         //non-generic -different data types,but it lacks type safety compared to List<T> HERE T-type.
-        //Boxing and unboxing
+        //Boxing-storing value types 
+        //internally array store elements and automatically resizes when its capacity exceeded.
+
         static void Main()
         {
             ArrayList data = new ArrayList();
