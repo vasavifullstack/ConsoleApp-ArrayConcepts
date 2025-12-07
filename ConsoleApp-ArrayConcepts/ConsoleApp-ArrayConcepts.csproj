@@ -53,6 +53,7 @@
     <Compile Include="5.List_example.cs" />
     <Compile Include="6.Dictionary.cs" />
     <Compile Include="7.Dictionary_example.cs" />
+    <Compile Include="8.hashtable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
