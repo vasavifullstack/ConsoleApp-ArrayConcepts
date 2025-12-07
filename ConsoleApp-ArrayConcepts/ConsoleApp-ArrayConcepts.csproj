@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Csharp_Dec_Step4.HashsetExample</StartupObject>
+    <StartupObject>Csharp_Dec_Step4.TupleExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1.Array.cs" />
+    <Compile Include="10.tuple.cs" />
     <Compile Include="2.Array_example.cs" />
     <Compile Include="3.ArrayList.cs" />
     <Compile Include="4.List.cs" />
